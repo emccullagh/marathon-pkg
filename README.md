@@ -9,7 +9,7 @@ Set Up
 * Install Ruby packages.
 
 ```bash
-apt-get install ruby ruby-dev libffi-dev        ## On Debian/Ubuntu
+apt-get install ruby ruby-dev libffi-dev	## On Debian/Ubuntu
 ```
 
 ```bash
