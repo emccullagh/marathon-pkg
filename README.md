@@ -9,11 +9,11 @@ Set Up
 * Install Ruby packages.
 
 ```bash
-apt-get install ruby ruby-dev			## On Debian/Ubuntu
+apt-get install ruby ruby-dev libffi-dev        ## On Debian/Ubuntu
 ```
 
 ```bash
-yum install ruby ruby-devel				## On RedHat/CentOS/Fedora
+yum install ruby ruby-devel libffi-devel	## On RedHat/CentOS/Fedora
 ```
 
 * Install FPM.
